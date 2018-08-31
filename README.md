@@ -1,5 +1,9 @@
 # TwinStickRL
 
+## Installation
+You need to install TensorflowSharp to be able to use pre-trained models
+https://github.com/llSourcell/Unity_ML_Agents/blob/master/docs/Using-TensorFlow-Sharp-in-Unity-(Experimental).md
+
 ## Training
 You must build the game with one brain in external and the other in internal mode. (TwinMove or TwinAim)
 
