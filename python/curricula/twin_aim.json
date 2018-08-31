@@ -1,0 +1,14 @@
+{
+    "measure" : "reward",
+    "thresholds" : [20, 30, 40, 50, 60, 70, 100, 110, 120],
+    "min_lesson_length" : 1,
+    "signal_smoothing" : true, 
+    "parameters" : 
+    {
+        "spawn_rate" : [200, 180, 160, 140, 110, 80, 20, 18, 17, 15],
+        "min_enemy_distance": [22, 22, 22, 21, 21, 20, 20, 20, 20, 20],
+        "reset_center_prob":[1, 0.6, 0.3, 0.1, 0.1, 0, 0, 0, 0, 0],
+        "max_enemy_count":[50, 50, 50, 50, 50, 50, 50, 50, 50, 50],
+        "skip_internal_brain" : [1, 1, 1, 1, 1, 1, 0, 0, 0, 0]
+    }
+}
