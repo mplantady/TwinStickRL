@@ -1,5 +1,7 @@
 # TwinStickRL
 
+![TwinStick](https://media.giphy.com/media/k571MGCUmcVhJmbpyZ/giphy.gif)
+
 ## Installation
 UnityML is already included in the source, but you need to follow this to install the plugin TensorflowSharp:
 https://github.com/llSourcell/Unity_ML_Agents/blob/master/docs/Using-TensorFlow-Sharp-in-Unity-(Experimental).md
