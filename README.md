@@ -1,7 +1,7 @@
 # TwinStickRL
 
 ## Installation
-You need to install TensorflowSharp to be able to use pre-trained models
+UnityML & TensorflowSharp are already included in the source, follow this if you want to update both to latest version:
 https://github.com/llSourcell/Unity_ML_Agents/blob/master/docs/Using-TensorFlow-Sharp-in-Unity-(Experimental).md
 
 ## Training
