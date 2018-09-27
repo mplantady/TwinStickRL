@@ -1,6 +1,6 @@
 # TwinStickRL
 
-![TwinStick](https://media.giphy.com/media/k571MGCUmcVhJmbpyZ/giphy.gif)
+![TwinStick](https://github.com/mplantady/TwinStickRL/blob/master/Preview.gif)
 
 ## Installation
 UnityML is already included in the source, but you need to follow this to install the plugin TensorflowSharp:
